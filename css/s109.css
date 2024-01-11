@@ -468,3 +468,19 @@ h2 {
         width: 100%; /* Ajustez la largeur de l'image pour les écrans de petite taille */
     }
 }
+
+
+@media only screen and (max-width: 600px) {
+    
+    #div3 {
+        margin-bottom: 0px;
+        height: 573.83px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .image1 {
+       margin-top: 19px;
+    }
+}
